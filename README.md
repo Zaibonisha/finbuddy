@@ -25,6 +25,5 @@ A smart personal finance and learning assistant that helps users manage budgets,
 
 ---
 
-## Installation
 
 
