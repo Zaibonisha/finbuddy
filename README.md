@@ -27,7 +27,4 @@ A smart personal finance and learning assistant that helps users manage budgets,
 
 ## Installation
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/finance-learning-app.git
-   cd finance-learning-app
+
